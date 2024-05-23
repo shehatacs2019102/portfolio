@@ -1,5 +1,5 @@
 import React from 'react'
-// import './portrait.css'
+import './portrait.css'
 export function Portrait(props) {
     
 
